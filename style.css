@@ -18,6 +18,9 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
-@media screen and (min-width: 480px) {
-
+@media screen and (max-width: 480px) {
+  .width{
+    max-width: 350px;
+    margin-bottom: 20px;
+  }
 }
