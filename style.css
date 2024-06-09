@@ -20,7 +20,7 @@
 }
 @media screen and (max-width: 480px) {
   .width{
-    max-width: 350px;
+    max-width: 380px;
     margin-bottom: 20px;
   }
 }
